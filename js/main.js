@@ -1,4 +1,4 @@
 function cambiarColor(){
-    document.body.style.backgroundColor = "#0000FF";
+    document.body.style.backgroundColor = "#";
 }
 document.addEventListener("click", cambiarColor);
