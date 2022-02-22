@@ -10,7 +10,7 @@ html{
 
 body{
     width: 90%;
-    background-color: #c2c2c2;
+    background-color: #ffffff;
     margin: 0 auto;
     max-width: 1200px;  
 }
@@ -58,5 +58,10 @@ a{
     color: aliceblue;
     justify-content: space-between;
 }
+
+.nav a:hover{
+    color:darkred;
+}
+
 
 /*=============CUERPO===============*/
